@@ -1,0 +1,33 @@
+FullSchedule: 
+Time	|     Терапевт     |     Венеролог    |   Физиотерапевт  |      Окулист     |     Психиатр     |
+8:00 	|    NotPossible   |      Client4     |       Empty      |      Client2     |      Client3     |    NotPossible   |
+9:00 	|    NotPossible   |      Client3     |       Empty      |      Client4     |       Empty      |      Client2     |
+10:00 	|      Client4     |      Client2     |      Client3     |       Empty      |       Empty      |    NotPossible   |
+11:00 	|      Client3     |       Empty      |       Empty      |       Empty      |      Client2     |      Client4     |
+12:00 	|      Client2     |       Empty      |      Client4     |       Empty      |    NotPossible   |      Client3     |
+13:00 	|       Empty      |       Empty      |       Empty      |       Empty      |       Empty      |       Empty      |
+14:00 	|       Empty      |       Empty      |       Empty      |       Empty      |       Empty      |       Empty      |
+
+Timetable for each client
+client Client2
+8:00	|	  Физиотерапевт 
+9:00	|	    Психиатр    
+10:00	|	       Лор      
+11:00	|	     Окулист    
+12:00	|	    Терапевт    
+
+client Client3
+8:00	|	     Окулист    
+9:00	|	       Лор      
+10:00	|	    Венеролог   
+11:00	|	    Терапевт    
+12:00	|	    Психиатр    
+
+client Client4
+8:00	|	       Лор      
+9:00	|	  Физиотерапевт 
+10:00	|	    Терапевт    
+11:00	|	    Психиатр    
+12:00	|	    Венеролог   
+
+
